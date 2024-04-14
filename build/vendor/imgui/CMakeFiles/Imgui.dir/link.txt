@@ -1,0 +1,2 @@
+/bin/x86_64-linux-gnu-ar qc libImgui.a CMakeFiles/Imgui.dir/examples/example_glfw_opengl3/main.cpp.o CMakeFiles/Imgui.dir/imgui.cpp.o CMakeFiles/Imgui.dir/imgui_demo.cpp.o CMakeFiles/Imgui.dir/imgui_draw.cpp.o CMakeFiles/Imgui.dir/imgui_tables.cpp.o CMakeFiles/Imgui.dir/imgui_widgets.cpp.o CMakeFiles/Imgui.dir/backends/imgui_impl_glfw.cpp.o CMakeFiles/Imgui.dir/backends/imgui_impl_opengl3.cpp.o
+/bin/x86_64-linux-gnu-ranlib libImgui.a

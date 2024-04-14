@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../vendor/imgui/imconfig.h
+
+../vendor/imgui/imgui.h
+imconfig.h
+../vendor/imgui/imconfig.h
+float.h
+-
+stdarg.h
+-
+stddef.h
+-
+string.h
+-
+assert.h
+-
+imgui_user.h
+../vendor/imgui/imgui_user.h
+
+/home/kalab/dev/arduino/led/src/Application.cpp
+Application.h
+/home/kalab/dev/arduino/led/src/Application.h
+fstream
+-
+iostream
+-
+
+/home/kalab/dev/arduino/led/src/Application.h
+imgui.h
+/home/kalab/dev/arduino/led/src/imgui.h
+string
+-
+

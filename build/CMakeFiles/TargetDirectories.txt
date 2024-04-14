@@ -1,0 +1,6 @@
+/home/kalab/dev/arduino/led/build/CMakeFiles/rebuild_cache.dir
+/home/kalab/dev/arduino/led/build/CMakeFiles/edit_cache.dir
+/home/kalab/dev/arduino/led/build/CMakeFiles/NDD.dir
+/home/kalab/dev/arduino/led/build/vendor/imgui/CMakeFiles/rebuild_cache.dir
+/home/kalab/dev/arduino/led/build/vendor/imgui/CMakeFiles/edit_cache.dir
+/home/kalab/dev/arduino/led/build/vendor/imgui/CMakeFiles/Imgui.dir

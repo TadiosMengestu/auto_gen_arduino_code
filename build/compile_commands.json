@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/kalab/dev/arduino/led/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/NDD.dir/src/Application.cpp.o -c /home/kalab/dev/arduino/led/src/Application.cpp",
+  "file": "/home/kalab/dev/arduino/led/src/Application.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/examples/example_glfw_opengl3/main.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/examples/example_glfw_opengl3/main.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/examples/example_glfw_opengl3/main.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/imgui.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/imgui.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/imgui_demo.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/imgui_demo.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/imgui_draw.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/imgui_draw.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/imgui_tables.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/imgui_tables.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/imgui_widgets.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/imgui_widgets.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/backends/imgui_impl_glfw.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/kalab/dev/arduino/led/build/vendor/imgui",
+  "command": "/bin/x86_64-linux-gnu-g++-10  -I/home/kalab/dev/arduino/led/vendor/imgui -I/home/kalab/dev/arduino/led/vendor/imgui/backends -I/home/kalab/dev/arduino/led/src -g -std=gnu++17 -o CMakeFiles/Imgui.dir/backends/imgui_impl_opengl3.cpp.o -c /home/kalab/dev/arduino/led/vendor/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/kalab/dev/arduino/led/vendor/imgui/backends/imgui_impl_opengl3.cpp"
+}
+]
